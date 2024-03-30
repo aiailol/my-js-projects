@@ -6,5 +6,5 @@ Books exchange platform:    ![image](https://github.com/aiailol/my-js-projects/a
 
 
 
-
-Simple blog: ![image](https://github.com/aiailol/my-js-projects/assets/153095983/3e88a8dc-7d04-4e7b-bb83-cd1fec16d0dc)
+Simple blog:
+ ![image](https://github.com/aiailol/my-js-projects/assets/153095983/3e88a8dc-7d04-4e7b-bb83-cd1fec16d0dc)
